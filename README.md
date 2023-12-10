@@ -101,3 +101,5 @@ For retrieving each byte, the success probability is as follows, if we have ***N
 To demonstrate the generality of this attack, the success probability of LFA against PRESENT was simulated, and it is provided in this [repository](https://github.com/LinkedFaultAnalysis/LFA/blob/main/Success%20Probability%20of%20LFA/LDFA%20against%20PRESENT.py). The table below shows the simulation results. 
 
 <img src="https://github.com/LinkedFaultAnalysis/LFA/blob/main/Figures/Simulation%20Results%20for%20PRESENT.png" alt="Your image title" width="700"/>
+
+## see: https://ieeexplore.ieee.org/abstract/document/10295528
